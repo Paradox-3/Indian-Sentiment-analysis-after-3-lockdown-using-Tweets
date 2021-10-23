@@ -8,11 +8,8 @@
 ![dsggsg.png](dsggsg.png)
 
 [See Project Work](http://www.dilip-kumar.me/twitter-sentiment-covid-19-india-lockdown-/)
-### Authors Name
- 1. <a href="https://www.linkedin.com/in/dilipkumar15/" style="text-decoration: none;"  target="_blank">Dilip Kumar</a>
- 2. <a href="https://www.linkedin.com/in/komal-mehta11/" style="text-decoration: none;"  target="_blank">Komal Mehta</a>
- 3. <a href="https://www.linkedin.com/in/stuti-chauhan-a79b96184/" style="text-decoration: none;"  target="_blank">Stuti Chauhan</a>
- 4. <a href="https://www.linkedin.com/in/somasekhar-eruvuri-775566119/" style="text-decoration: none;"  target="_blank">Eruvuri Somasekhar</a>
+### Author Name
+ 1. <a href="https://www.linkedin.com/in/somasekhar-eruvuri-775566119/" style="text-decoration: none;"  target="_blank">Eruvuri Somasekhar</a>
 
 ### Task 
 
