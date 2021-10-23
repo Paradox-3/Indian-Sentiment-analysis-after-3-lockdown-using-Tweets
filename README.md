@@ -9,7 +9,7 @@
 
 [See Project Work](http://www.dilip-kumar.me/twitter-sentiment-covid-19-india-lockdown-/)
 ### Author Name
- 1. <a href="https://www.linkedin.com/in/somasekhar-eruvuri-775566119/" style="text-decoration: none;"  target="_blank">Eruvuri Somasekhar</a>
+ <a href="https://www.linkedin.com/in/somasekhar-eruvuri-775566119/" style="text-decoration: none;"  target="_blank">Eruvuri Somasekhar</a>
 
 ### Task 
 
